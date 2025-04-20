@@ -8,7 +8,7 @@ class ChatLauncher:
     def __init__(self, root):
         self.root = root
         self.root.title("Chat Launcher")
-        self.root.geometry("400x300")
+        self.root.geometry("400x400")
         self.root.resizable(False, False)
         
         # style

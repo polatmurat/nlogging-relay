@@ -1,0 +1,5 @@
+Timestamp,Sender,Recipient,Message,Type
+2025-04-20 13:56:10,murat,ALL,deneme,public
+2025-04-20 13:56:59,polat,ALL,deneme mesajý,public
+2025-04-20 13:57:07,murat,ALL,cevap veriyorum,public
+2025-04-20 13:57:50,polat,murat,"sadece murata yolluyorum mesajý, private",private
