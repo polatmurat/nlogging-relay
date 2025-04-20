@@ -1,7 +1,5 @@
 # Multi-User Chat System
 
-## Murat Polat
-
 This project implements a multi-user chat system composed of three components:
 1. A Chat Server that manages connections and messages
 2. A Chat Client with GUI interface for user interaction
